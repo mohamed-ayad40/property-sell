@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --grid-template-columns-70\/30: 70% 28%;
+}
+
+button {
+  cursor: pointer;
+}
